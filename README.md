@@ -1,2 +1,8 @@
 # Lexical-Analyzer-System
-This project demonstrates a simple Lexical Analyzer developed using the Python programming language. The system reads input from a file and identifies tokens such as integers, floating-point numbers, identifiers, keywords, and relational operators.
+The system is a console-based application that allows users to analyze input data from a text file. The lexical analyzer reads tokens one by one and classifies them.
+The key features in the menu for managing the system are as follows:
+
+• Call lex()
+• Show symbol table
+• Exit
+
